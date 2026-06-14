@@ -1,0 +1,41 @@
+# AgentScribe - AI编码代理会话记录与智能分析工具
+
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AgentScribe data (local)
+.agentscribe/
+
+# Test and coverage
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Logs
+*.log
